@@ -12,3 +12,11 @@ pip uninstall torch
 --> Install the dependencies by opening your terminal inside the ComfyUI folder and:
 
 pip install -r requirements.txt
+
+
+--> To install ComfyUI-Manager in addition to an existing installation of ComfyUI, you can follow the following steps:
+
+ ---->goto ComfyUI/custom_nodes dir in terminal(cmd)
+
+git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+Restart ComfyUI
