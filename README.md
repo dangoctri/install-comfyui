@@ -23,3 +23,7 @@ Restart ComfyUI
 
 Link hướng dẫn chi tiết chuẩn bị trước khi cài comfyui
 https://tinhte.vn/thread/tong-hop-nhung-thu-can-cai-vao-pc-de-bat-dau-voc-ai-python-git-c-ffmpeg-cuda-pytorch.3769219/
+
+
+Install với 1 click 
+https://pinokio.computer/
