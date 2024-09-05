@@ -20,3 +20,6 @@ pip install -r requirements.txt
 
 git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 Restart ComfyUI
+
+Link hướng dẫn chi tiết chuẩn bị trước khi cài comfyui
+https://tinhte.vn/thread/tong-hop-nhung-thu-can-cai-vao-pc-de-bat-dau-voc-ai-python-git-c-ffmpeg-cuda-pytorch.3769219/
