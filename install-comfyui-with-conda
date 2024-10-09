@@ -1,0 +1,29 @@
+* Install miniconda 3 
+* Khởi tạo env mới
+  - conda create -n comfyenv
+  - conda activate comfyenv
+* Install git for conda
+  - conda install conda-forge::git
+* Install git lfs for conda
+  - conda install conda-forge::git-lfs
+* Install ffmpeg for conda
+  - conda install conda-forge::ffmpeg
+* Install cuda for conda 
+  - conda install conda-forge::cudatoolkit
+
+* Clone comfyui
+  - git clone git@github.com:comfyanonymous/ComfyUI.git
+* Install GPU
+  - conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch-nightly -c nvidia
+  - cd ComfyUI
+  - pip install -r requirements.txt
+
+* install comfyui manager
+  - goto ComfyUI/custom_nodes 
+  - git clone https://github.com/ltdrdata/ComfyUI-Manager.git
+
+* Install comfyui easy-use
+#1. Clone the repo
+git clone https://github.com/yolain/ComfyUI-Easy-Use
+#2. Install the requirements
+Double-click install.bat to install the required dependencies
