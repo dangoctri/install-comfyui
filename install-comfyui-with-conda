@@ -9,6 +9,7 @@
 * Install ffmpeg for conda
   - conda install conda-forge::ffmpeg
 * Install cuda for conda 
+  - conda install conda-forge::cudnn
   - conda install conda-forge::cudatoolkit
 
 * Clone comfyui
