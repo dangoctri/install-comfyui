@@ -32,3 +32,8 @@ conda install -y -c conda-forge git git-lfs
 git clone https://github.com/yolain/ComfyUI-Easy-Use
 #2. Install the requirements
 Double-click install.bat to install the required dependencies
+
+***** fit lỗi ssl:1000 ****
+thêm nội dung sau vào system env
+REQUESTS_CA_BUNDLE
+C:\ProgramData\miniconda3\Lib\site-packages\certifi\cacert.pem
